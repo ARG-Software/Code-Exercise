@@ -28,3 +28,5 @@ In this application, you are tasked with implementing a backend using either Nes
     - Job name;
     - Job description;
     - Company name (must be unique to prevent duplicate entries).
+
+** Use interfaces whenever it's possible or you feel like you should have them **
