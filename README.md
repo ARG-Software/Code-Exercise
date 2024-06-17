@@ -1,6 +1,6 @@
 # HandsOnWebApp
 
-In this application, you are tasked with implementing a backend using either NestJs with Express or .NET; the choice is yours. Optionally, you may use [NX](https://nx.dev/) to build a monorepo and segregate the application from the web API within the same repository. Additionally, develop a frontend app using Angular or NextJs. Focus on functionality rather than aesthetics for the layout.
+In this application, you are tasked with implementing a backend using either NestJs with Express or .NET; the choice is yours. Optionally, you may use [NX](https://nx.dev/) to build a monorepo and segregate the application from the web API within the same repository. Additionally, develop a frontend app using Angular or NextJs. Focus on functionality rather than aesthetics for the layout. 
 
 ## App should have three screens:
 
@@ -29,4 +29,5 @@ In this application, you are tasked with implementing a backend using either Nes
     - Job description;
     - Company name (must be unique to prevent duplicate entries).
 
-** Use interfaces whenever it's possible or you feel like you should have them **
+**Use interfaces whenever it's possible or you feel like you should have them**
+**Although all aspects have their own weigh, we pay special attention in the way the code base is structured as a whole**
