@@ -30,4 +30,5 @@ In this application, you are tasked with implementing a backend using either Nes
     - Company name (must be unique to prevent duplicate entries).
 
 **Use interfaces whenever it's possible or you feel like you should have them**
+
 **Although all aspects have their own weigh, we pay special attention in the way the code base is structured as a whole**
